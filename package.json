@@ -1,6 +1,6 @@
 {
   "name": "ad-react-express-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A boilerplate for react/redux and express app",
   "main": "index.js",
   "scripts": {
