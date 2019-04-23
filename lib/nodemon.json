@@ -1,0 +1,3 @@
+{
+  "watch":["src/server/","src/server/bin", "src/server/bin/www"]
+}
